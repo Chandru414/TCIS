@@ -2,17 +2,128 @@
     Crafto - Travel agency
 ====================================== */
 /* font */
-@import url('https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:wght@100;200;300;400;500;600;700;800;900&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Schibsted+Grotesk:wght@400;500;600;700;800;900&display=swap');
+/* @import url('https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:wght@100;200;300;400;500;600;700;800;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Schibsted+Grotesk:wght@400;500;600;700;800;900&display=swap'); */
+@import url('https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
 /* variable */
 :root {     
     --base-color: #C19052; 
     --light-gray: #E7E4DF;
     --red: #d03c3c;
     --very-light-gray:#F2EFEB;
-    --alt-font: 'Barlow Semi Condensed', sans-serif;
-    --primary-font: 'Schibsted Grotesk', sans-serif;
+    --alt-font: 'Be Vietnam Pro', serif;
+    --primary-font: 'Be Vietnam Pro', serif;
 }
+
+.be-vietnam-pro-thin {
+    font-family: "Be Vietnam Pro", serif;
+    font-weight: 100;
+    font-style: normal;
+  }
+  
+  .be-vietnam-pro-extralight {
+    font-family: "Be Vietnam Pro", serif;
+    font-weight: 200;
+    font-style: normal;
+  }
+  
+  .be-vietnam-pro-light {
+    font-family: "Be Vietnam Pro", serif;
+    font-weight: 300;
+    font-style: normal;
+  }
+  
+  .be-vietnam-pro-regular {
+    font-family: "Be Vietnam Pro", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .be-vietnam-pro-medium {
+    font-family: "Be Vietnam Pro", serif;
+    font-weight: 500;
+    font-style: normal;
+  }
+  
+  .be-vietnam-pro-semibold {
+    font-family: "Be Vietnam Pro", serif;
+    font-weight: 600;
+    font-style: normal;
+  }
+  
+  .be-vietnam-pro-bold {
+    font-family: "Be Vietnam Pro", serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+  
+  .be-vietnam-pro-extrabold {
+    font-family: "Be Vietnam Pro", serif;
+    font-weight: 800;
+    font-style: normal;
+  }
+  
+  .be-vietnam-pro-black {
+    font-family: "Be Vietnam Pro", serif;
+    font-weight: 900;
+    font-style: normal;
+  }
+  
+  .be-vietnam-pro-thin-italic {
+    font-family: "Be Vietnam Pro", serif;
+    font-weight: 100;
+    font-style: italic;
+  }
+  
+  .be-vietnam-pro-extralight-italic {
+    font-family: "Be Vietnam Pro", serif;
+    font-weight: 200;
+    font-style: italic;
+  }
+  
+  .be-vietnam-pro-light-italic {
+    font-family: "Be Vietnam Pro", serif;
+    font-weight: 300;
+    font-style: italic;
+  }
+  
+  .be-vietnam-pro-regular-italic {
+    font-family: "Be Vietnam Pro", serif;
+    font-weight: 400;
+    font-style: italic;
+  }
+  
+  .be-vietnam-pro-medium-italic {
+    font-family: "Be Vietnam Pro", serif;
+    font-weight: 500;
+    font-style: italic;
+  }
+  
+  .be-vietnam-pro-semibold-italic {
+    font-family: "Be Vietnam Pro", serif;
+    font-weight: 600;
+    font-style: italic;
+  }
+  
+  .be-vietnam-pro-bold-italic {
+    font-family: "Be Vietnam Pro", serif;
+    font-weight: 700;
+    font-style: italic;
+  }
+  
+  .be-vietnam-pro-extrabold-italic {
+    font-family: "Be Vietnam Pro", serif;
+    font-weight: 800;
+    font-style: italic;
+  }
+  
+  .be-vietnam-pro-black-italic {
+    font-family: "Be Vietnam Pro", serif;
+    font-weight: 900;
+    font-style: italic;
+  }
+
+  
 /* reset */
 body {
     font-size: 17px;

@@ -7985,7 +7985,8 @@ header a.widget-text:hover {
   position: fixed;
   top: 0;
   right: -100%;
-  width: 400px;
+  /* width: 400px; */
+  width: 472px;
   height: 100%;
   z-index: 1031;
   overflow-y: auto;
